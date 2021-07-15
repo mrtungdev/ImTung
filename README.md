@@ -7,6 +7,7 @@
 
 [![Flutter Star Micronics](https://github-readme-stats.vercel.app/api/pin/?username=ImTung&repo=flutter_star_micronics)](https://github.com/ImTung/flutter_star_micronics)
 [![Flutter Zebra Printer](https://github-readme-stats.vercel.app/api/pin/?username=ImTung&repo=flutter_zebra_sdk)](https://github.com/ImTung/flutter_zebra_sdk)
+[![Flutter Epson ePOS SDK](https://github-readme-stats.vercel.app/api/pin/?username=ImTung&repo=flutter_epson_epos)](https://github.com/ImTung/flutter_epson_epos)
 
 ### Github Stats
 
